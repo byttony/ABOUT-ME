@@ -11,4 +11,4 @@ with proven results, enabling the organic distribution of your content across Te
 
 keeping your community engaged and informed.
 
-## My expertise in Telegram and Discord moderation involves setting up bots, maintaining high information flow, and implementing measures against fraud, marketing, and spam.
+#### My expertise in Telegram and Discord moderation involves setting up bots, maintaining high information flow, and implementing measures against fraud, marketing, and spam.
