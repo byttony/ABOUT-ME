@@ -19,5 +19,5 @@ keeping your community engaged and informed.
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-You can also contact me at [TELEGRAM]{https://t.me/Dr_crypto_seeker}
+##### You can also contact me at: [TELEGRAM](https://t.me/Dr_crypto_seeker)
 </footer>
