@@ -26,5 +26,5 @@ with proven results, enabling the organic distribution of your content across Te
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-##### You can also contact me at: [TELEGRAM](https://t.me/Dr_crypto_seeker)
+##### You can also contact me at: [TELEGRAM](https://t.me/Dr_crypto_seeker) or [TELEGRAM BOT](https://t.m/DrCryptoSeeker_bot)
 </footer>
