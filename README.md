@@ -26,5 +26,5 @@ My expertise in Telegram and Discord moderation involves setting up bots, mainta
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 ##### You can also contact us at: 
-[TELEGRAM](https://t.me/Dr_crypto_seeker) **or our team official bot** [TELEGRAM BOT](https://t.me/DrCryptoSeeker_bot)
+[TELEGRAM](https://t.me/Dr_crypto_seeker) **or our team official bot** [DCS-TRENDING](https://t.me/drcryptoseekertrending)
 </footer>
